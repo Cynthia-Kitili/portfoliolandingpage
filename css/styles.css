@@ -1,0 +1,99 @@
+h1 {
+    font-style: inherit;
+    color: black;
+}
+.profession{
+    color: black;
+    float: left;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: oblique;
+    background-color: honeydew;
+}
+.test-box{
+    float: left;
+    border: 2px;
+    padding: 2px;
+    margin: 10px;
+    background-color: grey:
+}
+.aboutme{
+    background-color: honeydew;
+    font-family: fantasy;
+    font-size: large;
+}
+.about {
+    color: skyblue;
+    font-size: large;
+    text-underline-position:  below;
+    float: inline-start;
+    font-size: large;
+}
+.list {
+    color: black;
+    font-family: oblique;
+    font-style: oblique;
+}
+.contact {
+    color: black;
+    font-weight: bolder;
+}
+.history1 {
+    font-weight: normal;
+    float: left;
+    background-color: honeydew;
+}
+.column{
+    float:right;
+    width: 700px;
+    font-style: inherit;
+    font-weight: medium;
+    font-size: large;
+    background-color: honeydew;
+}
+.list 2{
+    color: black;
+    font-family: sans-serif;
+    font-style: oblique
+}
+.sh {
+    font-family: fantasy;
+    font-weight: bolder;
+    font-style: inherit;
+    color: skyblue;
+}
+.ej {
+    float: inline-end;
+    font-family: fantasy;
+    font-weight: bolder;
+    font-style: oblique;
+    color: skyblue;
+    font-size: larger;
+    background-color: honeydew;
+}
+.sidebar{
+    font-size: large;
+    font-weight: medium;
+    font-family: inherit;
+    float: left;
+    width: 50%;
+}
+.reason {
+    font-weight: bolder;
+    font-style: oblique;
+}
+.whole {
+    background-color: honeydew;
+    font-style: oblique;
+}
+.rp {
+    font-style: oblique;
+    color: skyblue;
+    float: center;
+    font-size: large;
+}
+@media all and (min-width: 480px) and (max-width: 1500px) {
+    body{
+        background-color: honeydew;
+    }
+}
