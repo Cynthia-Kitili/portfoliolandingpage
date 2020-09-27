@@ -78,3 +78,22 @@ h1 {
     float: left;
     width: 50%;
 }
+.reason {
+    font-weight: bolder;
+    font-style: oblique;
+}
+.whole {
+    background-color: honeydew;
+    font-style: oblique;
+}
+.rp {
+    font-style: oblique;
+    color: skyblue;
+    float: center;
+    font-size: large;
+}
+@media all and (min-width: 480px) and (max-width: 1500px) {
+    body{
+        background-color: honeydew;
+    }
+}
