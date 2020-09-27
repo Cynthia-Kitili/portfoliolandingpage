@@ -51,3 +51,30 @@ h1 {
     font-size: large;
     background-color: honeydew;
 }
+.list 2 {
+    color: black;
+    font-family: sans-serif;
+    font-style: oblique
+}
+.sh {
+    font-family: fantasy;
+    font-weight: bolder;
+    font-style: inherit;
+    color: skyblue;
+}
+.ej {
+    float: inline-end;
+    font-family: fantasy;
+    font-weight: bolder;
+    font-style: oblique;
+    color: skyblue;
+    font-size: larger;
+    background-color: honeydew;
+}
+.sidebar{
+    font-size: large;
+    font-weight: medium;
+    font-family: inherit;
+    float: left;
+    width: 50%;
+}
