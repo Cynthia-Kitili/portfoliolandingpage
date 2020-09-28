@@ -1,12 +1,39 @@
-# portfoliolandingpage
-#Cynthia Kitili
-# This is my compilation of materials that exemplifies my beliefs, skills, qualifications, education, training and experiences. It provides insight into my personality and work ethic.
-# Views (https://www.drupal.org/project/views)
-# Panels (https://www.drupal.org/project/panels)
-# https://cynthia-kitili.github.io/portfoliolandingpage
-#MIT License
+# Portfolio
 
-Copyright (c) [2020] [Kitili Cynthia Nyambura]
+Portfolio Landing Page built with HTML and CSS.
+
+## Author
+ * [KITILI CYNTHIA NYAMBURA]
+
+## Description
+ This is my compilation of materials that exemplifies my beliefs, skills, qualifications, education, training and experiences. It provides insight into my personality and work ethic.
+
+#Live Demo
+
+link to working example[ https://cynthia-kitili.github.io/portfoliolandingpage/]
+
+####Installation
+
+Install softwares that support HTML and CSS and type your code.
+
+#Usage
+
+The repository can be cloned or forked for usage in HTML and CSS.
+
+##Deployment
+
+uploaded to github.
+
+## Built with
+
+HTML
+CSS
+
+##License
+
+MIT License
+
+Copyright (c) [2020] [KITILI CYNTHIA NYAMBURA]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -25,3 +52,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+
+
